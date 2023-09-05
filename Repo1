@@ -1,0 +1,5 @@
+ubuntu@ip-172-31-42-244:~$ git --version
+git version 2.34.1
+ubuntu@ip-172-31-42-244:~$ git config --global user.name "kumarani13"
+ubuntu@ip-172-31-42-244:~$ git config --global user.email "kaniecians@gmail.com"
+ubuntu@ip-172-31-42-244:~$ 
